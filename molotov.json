@@ -1,0 +1,11 @@
+{
+    "molotov": {
+        "requirements": "requirements.txt",
+        "tests": {
+            "sizer": {
+                "sizing": true,
+                "scenario": "loadtest.py"
+            }
+        }
+    }
+}
